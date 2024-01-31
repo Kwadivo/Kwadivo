@@ -6,7 +6,6 @@
 - 😄 I am very humble, and God-fearing, as well as willing to serve
 - ⚡ This is a Multi-User Access codes for Java website...
 
-<!---
-Kwadivo/Kwadivo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at my changes.
---->
+<!-- THE MULTI-USER CODES INTERFACE IS IN THE DESCRIPTION: https://reimagined-fortnight-v6v5gq5v76r5cp5g6.github.dev/
+THANK YOU
+!>--
